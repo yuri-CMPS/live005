@@ -13,6 +13,7 @@ export function AppBar() {
         <div className="flex items-center gap-6">
           <img src={logo} alt="JStack" width="80" />
           <TodosCounter />
+          <p>Olá que legal</p>
         </div>
         <UserMenu />
       </div>
