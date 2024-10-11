@@ -14,7 +14,7 @@ export function AppBar() {
           <img src={logo} alt="JStack" width="80" />
           <TodosCounter />
         </div>
-        <p>Hello world</p>
+        <p>Hello world </p>
         <UserMenu />
       </div>
     </header>
